@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1621435180 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"moto.h"
+
+1621427387 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipo.h"
+
+1621427520 c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\tipo.h
+
+1621427398 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+
+1621427520 c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\color.h
+
+1621434356 c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\moto.h
+	"color.h"
+	"tipo.h"
+
+1621435513 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicios.h"
+	"trabajo.h"
+
+1621433146 c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\servicios.h
+
+1621433110 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicios.h"
+
+1621434736 c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\trabajo.h
+	"fecha.h"
+	"moto.h"
+	"tipo.h"
+	"color.h"
+	"servicios.h"
+
+1621432348 c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\fecha.h
+
+1621435513 source:c:\users\asus\desktop\diazbarbacovi.francisco.pplab1\diazbfranciscoexamen\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+
